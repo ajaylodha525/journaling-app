@@ -39,4 +39,4 @@ Then open `http://127.0.0.1:5000` in your browser. On macOS or Linux, activate t
 
 ## Author
 
-Ajay Lodha, B.Tech Computer Science student learning data science.
+Ajay Lodha, B.Tech Computer Science,GEC.Banswara
